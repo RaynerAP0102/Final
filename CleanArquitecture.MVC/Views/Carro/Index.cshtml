@@ -1,0 +1,25 @@
+﻿@model CleanArquitecture.Application.ViewModels.CarroViewModel
+
+<table id="carro" class="table table-bordered table-hover">
+    <thead>
+        <tr class="">
+            <th>Id</th>
+            <th>Modelo</th>
+            <th>Marca</th>
+            <th>Color</th>
+            <th>Año</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var carro in Model.Carros)
+        {
+            <tr style="height: 60px;">
+                <td>@carro.Id</td>
+                <td>@carro.Model</td>
+                <td>@carro.Brand</td>
+                <td>@carro.Color</td>
+                <td>@carro.Year</td>
+            </tr>
+        }
+    </tbody>
+</table>

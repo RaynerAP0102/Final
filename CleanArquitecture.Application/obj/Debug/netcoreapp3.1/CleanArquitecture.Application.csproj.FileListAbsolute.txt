@@ -1,0 +1,11 @@
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Application\bin\Debug\netcoreapp3.1\CleanArquitecture.Application.deps.json
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Application\bin\Debug\netcoreapp3.1\CleanArquitecture.Application.dll
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Application\bin\Debug\netcoreapp3.1\CleanArquitecture.Application.pdb
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Application\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.dll
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Application\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.pdb
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Application\obj\Debug\netcoreapp3.1\CleanArquitecture.Application.csprojAssemblyReference.cache
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Application\obj\Debug\netcoreapp3.1\CleanArquitecture.Application.AssemblyInfoInputs.cache
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Application\obj\Debug\netcoreapp3.1\CleanArquitecture.Application.AssemblyInfo.cs
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Application\obj\Debug\netcoreapp3.1\CleanArquitecture.Application.csproj.CopyComplete
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Application\obj\Debug\netcoreapp3.1\CleanArquitecture.Application.dll
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Application\obj\Debug\netcoreapp3.1\CleanArquitecture.Application.pdb
