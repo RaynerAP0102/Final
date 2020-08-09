@@ -11,3 +11,5 @@ C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Deb
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.dll
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.pdb
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.csproj.CopyComplete
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.dll
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.pdb

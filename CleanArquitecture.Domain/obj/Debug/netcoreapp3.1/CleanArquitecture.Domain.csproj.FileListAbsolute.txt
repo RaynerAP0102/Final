@@ -6,3 +6,12 @@ C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Domain\obj\Debug\n
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.dll
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.pdb
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.csprojAssemblyReference.cache
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Domain\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.deps.json
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Domain\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.dll
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Domain\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.pdb
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.csprojAssemblyReference.cache
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.AssemblyInfo.cs
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.dll
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Domain\obj\Debug\netcoreapp3.1\CleanArquitecture.Domain.pdb

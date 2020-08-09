@@ -161,3 +161,5 @@ C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.MVC\bin\Debug\netc
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.MVC\bin\Debug\netcoreapp3.1\CleanArquitecture.Infra.IoC.pdb
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.MVC\bin\Debug\netcoreapp3.1\CleanArquitecture.Application.pdb
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Carro\Index.cshtml.g.cs
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.MVC\obj\Debug\netcoreapp3.1\CleanArquitecture.MVC.dll
+C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.MVC\obj\Debug\netcoreapp3.1\CleanArquitecture.MVC.pdb
