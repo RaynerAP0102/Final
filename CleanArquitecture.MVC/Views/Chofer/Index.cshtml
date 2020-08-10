@@ -1,0 +1,54 @@
+﻿@model CleanArquitecture.Application.ViewModels.ChoferViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Registrar Chofer</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-info">Agregar Chofer</a>
+</p>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Apellido
+            </th>
+            <th>
+                Edad
+            </th>
+            <th>
+                Licencia
+            </th>
+            <th>
+                Accion
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var chofer in Model.Choferes) {
+        <tr>
+            <td>
+                @chofer.Nombre
+            </td>
+            <td>
+                @chofer.Apellido
+            </td>
+            <td>
+                @chofer.Edad
+            </td>
+            <td>
+                @chofer.Licencia
+            </td>
+            <td>
+                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@chofer.Id">Edit</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@chofer.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

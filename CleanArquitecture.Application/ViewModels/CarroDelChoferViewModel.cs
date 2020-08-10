@@ -5,8 +5,11 @@ using System.Text;
 
 namespace CleanArquitecture.Application.ViewModels
 {
-    class CarroDelChoferViewModel
+    public class CarroDelChoferViewModel
     {
         public IEnumerable<CarroChofer> CarrosDeChoferes { get; set; }
+        public IEnumerable<CarroChofer> Carros { get; set; }
+        public IEnumerable<CarroChofer> Chofer { get; set; }
+
     }
 }

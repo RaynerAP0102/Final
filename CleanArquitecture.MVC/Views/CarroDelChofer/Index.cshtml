@@ -1,0 +1,48 @@
+﻿@model CleanArquitecture.Application.ViewModels.CarroDelChoferViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create Taxista</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-info">Asignar auto a chofer</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Carro
+            </th>
+            <th>
+                Chofer
+            </th>
+            <th>
+                Fecha en que se escogio auto
+            </th>
+            <th>
+                Accion
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.CarrosDeChoferes)
+        {
+        <tr>
+            <td>
+                @item.CarroId_Carro
+            </td>
+            <td>
+                @item.ChoferId
+            </td>
+            <td>
+                @item.DateTakeCarro
+            </td>
+            <td>
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

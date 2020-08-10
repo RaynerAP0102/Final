@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\18096\\Documents\\GitHub\\Final\\CleanArquitecture.Application\\CleanArquitecture.Application.csproj": {}
+    "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Application\\CleanArquitecture.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\18096\\Documents\\GitHub\\Final\\CleanArquitecture.Application\\CleanArquitecture.Application.csproj": {
+    "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Application\\CleanArquitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\18096\\Documents\\GitHub\\Final\\CleanArquitecture.Application\\CleanArquitecture.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Application\\CleanArquitecture.Application.csproj",
         "projectName": "CleanArquitecture.Application",
-        "projectPath": "C:\\Users\\18096\\Documents\\GitHub\\Final\\CleanArquitecture.Application\\CleanArquitecture.Application.csproj",
-        "packagesPath": "C:\\Users\\18096\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\18096\\Documents\\GitHub\\Final\\CleanArquitecture.Application\\obj\\",
+        "projectPath": "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Application\\CleanArquitecture.Application.csproj",
+        "packagesPath": "C:\\Users\\Latitude 5580\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\18096\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Latitude 5580\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\18096\\Documents\\GitHub\\Final\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj": {
-                "projectPath": "C:\\Users\\18096\\Documents\\GitHub\\Final\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj"
+              "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj"
               }
             }
           }
@@ -56,21 +56,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\18096\\Documents\\GitHub\\Final\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj": {
+    "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\18096\\Documents\\GitHub\\Final\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj",
         "projectName": "CleanArquitecture.Domain",
-        "projectPath": "C:\\Users\\18096\\Documents\\GitHub\\Final\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj",
-        "packagesPath": "C:\\Users\\18096\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\18096\\Documents\\GitHub\\Final\\CleanArquitecture.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj",
+        "packagesPath": "C:\\Users\\Latitude 5580\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\18096\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Latitude 5580\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

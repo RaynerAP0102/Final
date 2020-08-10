@@ -1,15 +1,15 @@
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.deps.json
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.runtimeconfig.json
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.runtimeconfig.dev.json
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.dll
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.pdb
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Application.dll
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.dll
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Application.pdb
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.pdb
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.csprojAssemblyReference.cache
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.AssemblyInfoInputs.cache
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.AssemblyInfo.cs
+C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.csproj.CopyComplete
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.dll
 C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.pdb
-C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.runtimeconfig.json
-C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.runtimeconfig.dev.json
-C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.dll
-C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArquitecture.Domain.pdb
-C:\Users\Latitude 5580\source\repos\Taxeria\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.csproj.CopyComplete
-C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.dll
-C:\Users\18096\Documents\GitHub\Final\CleanArquitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArquitecture.Infra.Data.pdb

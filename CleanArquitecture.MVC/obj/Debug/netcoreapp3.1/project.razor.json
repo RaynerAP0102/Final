@@ -20521,6 +20521,16 @@
   "RootNamespace": "CleanArquitecture.MVC",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\Carro\\Delete.cshtml",
+      "TargetPath": "Views\\Carro\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\CarroDelChofer\\Delete.cshtml",
+      "TargetPath": "Views\\CarroDelChofer\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -20536,8 +20546,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\Carro\\Create.cshtml",
+      "TargetPath": "Views\\Carro\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\CarroDelChofer\\Index.cshtml",
+      "TargetPath": "Views\\CarroDelChofer\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20546,8 +20566,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\Carro\\Edit.cshtml",
+      "TargetPath": "Views\\Carro\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\CarroDelChofer\\Create.cshtml",
+      "TargetPath": "Views\\CarroDelChofer\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\Chofer\\Edit.cshtml",
+      "TargetPath": "Views\\Chofer\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\Chofer\\Delete.cshtml",
+      "TargetPath": "Views\\Chofer\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\Chofer\\Index.cshtml",
+      "TargetPath": "Views\\Chofer\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20558,6 +20603,11 @@
     {
       "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.MVC\\Views\\Chofer\\Create.cshtml",
+      "TargetPath": "Views\\Chofer\\Create.cshtml",
       "FileKind": "mvc"
     },
     {

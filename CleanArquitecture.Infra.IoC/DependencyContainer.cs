@@ -15,9 +15,13 @@ namespace CleanArquitecture.Infra.IoC
         {
             //CleanArchitecture.Application
             services.AddScoped<ICarroService, CarroService>();
+            services.AddScoped<IChoferService, ChoferService>();
+            services.AddScoped<ICarroDelChoferService, CarroDelChoferService>();
 
             //CleanArchitecture.Domain.Interfaces | CleanArchitecture.Infra.Data.Repositories
             services.AddScoped<ICarroRepository, CarroRepository>();
+            services.AddScoped<IChoferRepository, ChoferRepository>();
+            services.AddScoped<ICarroDelChoferRepository, CarroDelChoferRepository>();
         }
     }
 }

@@ -15,9 +15,40 @@ namespace CleanArquitecture.Infra.Data.Repositories
             _context = context;
         }
 
+        public void AddCarro(Carro carro)
+        {
+            _context.Carros.Add(carro);
+            _context.SaveChanges();
+            _context.Dispose();
+        }
+
+        public void EditarCarro(int id, Carro carro)
+        {
+            _context.Carros.Update(carro);
+            _context.SaveChanges();
+            _context.Dispose();
+        }
+
+        public Carro FindID(int id)
+        {
+            return _context.Carros.Find(id);
+        }
+
         public IEnumerable<Carro> GetCarros()
         {
             return _context.Carros;
         }
+
+        public void RemoveCarro(int id)
+        {
+            Carro carro = this.FindID(id);
+
+            _context.Carros.Remove(carro);
+
+            _context.SaveChanges();
+
+            _context.Dispose();
+        }
+
     }
 }

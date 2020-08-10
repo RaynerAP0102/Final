@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CleanArquitecture.Application\CleanArquitecture.Application.csproj" />
     <ProjectReference Include="..\CleanArquitecture.Domain\CleanArquitecture.Domain.csproj" />
   </ItemGroup>
 

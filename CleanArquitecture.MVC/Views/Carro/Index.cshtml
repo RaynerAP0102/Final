@@ -1,5 +1,12 @@
 ﻿@model CleanArquitecture.Application.ViewModels.CarroViewModel
 
+
+<div>
+    <h1>Registro de Carros </h1>
+    <a class="btn btn-info" asp-action="Create">Nuevo Carro</a>
+    <hr />
+</div>
+
 <table id="carro" class="table table-bordered table-hover">
     <thead>
         <tr class="">
@@ -8,17 +15,22 @@
             <th>Marca</th>
             <th>Color</th>
             <th>Año</th>
+            <th>Accion</th>
         </tr>
     </thead>
     <tbody>
         @foreach (var carro in Model.Carros)
         {
             <tr style="height: 60px;">
-                <td>@carro.Id</td>
-                <td>@carro.Model</td>
-                <td>@carro.Brand</td>
+                <td>@carro.Id_Carro</td>
+                <td>@carro.Modelo</td>
+                <td>@carro.Marca</td>
                 <td>@carro.Color</td>
-                <td>@carro.Year</td>
+                <td>@carro.Ano</td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@carro.Id_Carro">Editar</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@carro.Id_Carro">Eliminar</a>
+                </td>
             </tr>
         }
     </tbody>

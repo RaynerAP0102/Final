@@ -12,6 +12,13 @@ a {
   color: #0366d6;
 }
 
+body{
+	
+	background-image: https://images.pexels.com/photos/1236720/pexels-photo-1236720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940;
+	background-position: center;
+	background-repeat:no-repeat;
+}
+
 .btn-primary {
   color: #fff;
   background-color: #1b6ec2;

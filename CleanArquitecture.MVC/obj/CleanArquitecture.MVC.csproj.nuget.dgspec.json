@@ -135,6 +135,9 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Application\\CleanArquitecture.Application.csproj": {
+                "projectPath": "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Application\\CleanArquitecture.Application.csproj"
+              },
               "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj": {
                 "projectPath": "C:\\Users\\Latitude 5580\\source\\repos\\Taxeria\\CleanArquitecture.Domain\\CleanArquitecture.Domain.csproj"
               }
